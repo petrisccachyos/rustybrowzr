@@ -1,0 +1,6 @@
+/target/
+/work/
+/outputs/
+.env
+.env.*
+!.env.example
